@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0QrQl4HH262C9K1fUJRbmH0RvwZeM89fQw+fTy0LErhf4S87IomAi7625ZjJXugZhCu9HIUIzWzxrrtEZbEzoQ==",
+  "dgSpecHash": "AN+LiUhQf6loKWqDF7U0tNU/LNA8VKRU/ymuD+ZDvVfE9zmPyCH5tLyvSfj/ZBnm7gkoDDeM3ImFIKlcxfu1nA==",
   "success": true,
-  "projectFilePath": "/home/kyser/MyPracticesforUnity/My project/Assembly-CSharp.csproj",
+  "projectFilePath": "/home/kyser/unity-stuffs/Assembly-CSharp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

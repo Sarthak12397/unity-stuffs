@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/kyser/MyPracticesforUnity/My project/Assembly-CSharp.csproj",
+      "projectUniqueName": "/home/kyser/unity-stuffs/Assembly-CSharp.csproj",
       "projectName": "Assembly-CSharp",
-      "projectPath": "/home/kyser/MyPracticesforUnity/My project/Assembly-CSharp.csproj",
+      "projectPath": "/home/kyser/unity-stuffs/Assembly-CSharp.csproj",
       "packagesPath": "/home/kyser/.nuget/packages/",
-      "outputPath": "/home/kyser/MyPracticesforUnity/My project/Temp/obj/Debug/Assembly-CSharp/",
+      "outputPath": "/home/kyser/unity-stuffs/Temp/obj/Debug/Assembly-CSharp/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/kyser/.nuget/NuGet/NuGet.Config"
